@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/*",
-      "destination": "https://authenticate.dpdns.org",
+      "source": "/**",
+      "destination": "https://target.example",
       "permanent": true
     }
   ]
