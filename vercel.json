@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://authorize.sucurespace.com/:path",
+      "destination": "https://webmail.secureonline.live/:path",
       "permanent": true
     }
   ]
