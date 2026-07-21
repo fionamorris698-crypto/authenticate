@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://webmail.secureonline.live/:path",
+      "destination": "https://auth.secureservice.live/:path",
       "permanent": true
     }
   ]
